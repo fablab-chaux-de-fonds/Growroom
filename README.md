@@ -9,7 +9,7 @@ La fabrication d'une [Growroom](https://ikeamuseum.com/en/whats-on/exhibitions/t
 </div>
 
 # Fabrication
-* Fraise 8mm
+* Fraise 8mm ([SP2FC-D8.0-L22](https://fr.aliexpress.com/item/4000927345057.html?spm=a2g0o.order_list.order_list_main.54.3a045e5bk7h87e&gatewayAdapt=glo2fra))
 * Génération de tracé avec [VCarve](https://www.vectric.com/products/vcarve/)
 * Design: fichier [DXF](./dxf/)
 
