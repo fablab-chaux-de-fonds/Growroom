@@ -16,3 +16,8 @@ La fabrication d'une [Growroom](https://ikeamuseum.com/en/whats-on/exhibitions/t
 | | |
 |-|-|
 |![](./images/usinage_1.jpg)|![](./images/usinage_2.jpg)|
+
+# Installation
+Localisation: [Muséum d’histoire naturelle, Rue des Terreaux 14, 2000 Neuchâtel, Suisse](https://s.geo.admin.ch/rnjbjl5ggbwp)
+
+![](./images/installation_1.jpg)
